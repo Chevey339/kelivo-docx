@@ -27,7 +27,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm ci || npm i
+        run: npm i --no-audit --no-fund
 
       - name: Build VitePress site
         run: npm run docs:build
