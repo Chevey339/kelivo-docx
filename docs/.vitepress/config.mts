@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'A LLM Chat Client',
   cleanUrls: true,
   lastUpdated: true,
-  base: '/kelivo/',
+  base: '/',
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/icon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/icon.png' }],
