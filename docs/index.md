@@ -9,6 +9,7 @@ hero:
   image:
     src: /icon.png
     alt: Kelivo Icon
+    style: "width: 156px; height: 156px;"
   actions:
     - theme: brand
       text: Docs

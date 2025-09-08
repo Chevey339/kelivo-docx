@@ -1,7 +1,28 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
+import { defineTeekConfig } from "vitepress-theme-teek/config";
+
+const teekConfig = defineTeekConfig({
+  teekHome: false,
+  articleUpdate: {
+    enabled: false, // 是否启用文章最近更新栏
+    limit: 3, // 文章最近更新栏显示数量
+  },
+    appreciation: {
+    position: "doc-after", // 赞赏位置
+    // 赞赏配置
+    options: {
+      icon: "weChatPay", // 赞赏图标，内置 weChatPay 和 alipay
+      expandTitle: "打赏支持", // 展开标题，支持 HTML
+      collapseTitle: "下次一定", // 折叠标题，支持 HTML
+      content: `<img src='https://c.img.dasctf.com/LightPicture/2024/12/6c2a6df245ed97b3.jpg'>`, // 赞赏内容，支持 HTML
+      expand: false, // 是否默认展开，默认 false
+    },
+  },
+});
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  extends: teekConfig,
   title: 'Kelivo',
   description: 'A LLM Chat Client',
   cleanUrls: true,

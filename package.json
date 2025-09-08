@@ -1,19 +1,21 @@
 {
   "scripts": {
+    "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-    "dependencies": {
+  "dependencies": {
     "carousel": "^0.0.3",
     "embla-carousel-vue": "^8.6.0",
     "markdown-it": "^14.1.0"
   },
   "devDependencies": {
-    "vitepress": "^1.6.3",
+    "@ai-sdk/google": "^1.2.19",
     "@types/bun": "^1.2.16",
     "@types/node": "^24.0.1",
-    "@ai-sdk/google": "^1.2.19",
-    "ai": "^4.3.16"
+    "ai": "^4.3.16",
+    "vitepress": "^1.6.3",
+    "vitepress-theme-teek": "^1.4.6"
   },
   "engines": {
     "node": ">=20"
