@@ -3,7 +3,7 @@
   "latest": {
     "version": "1.0.8",
     "build": 3,
-    "releasedAt": "2025-09-07T23:05:00Z",
+    "releasedAt": "2025-09-09T23:05:00Z",
     "notes": "新增内置模型\n修复生图模型对话图片第二张无法生成需重新对话的问题\n模型选择弹出窗口中的提供商顺序现在与提供商列表中的顺序一致\n完善捐赠页面",
     "mandatory": false,
     "downloads": {
