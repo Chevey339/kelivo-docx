@@ -7,9 +7,6 @@ const teekConfig = defineTeekConfig({
     enabled: false, // 是否启用文章最近更新栏
     limit: 3, // 文章最近更新栏显示数量
   },
-  vitePlugins: {
-    docAnalysis: false,
-  },
   appreciation: {
     position: "doc-after", // 赞赏位置
     // 赞赏配置
