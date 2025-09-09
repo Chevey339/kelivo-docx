@@ -2,7 +2,7 @@
 title: Privacy Policy
 ---
 
-# Kelivo Privacy Policy
+# Privacy Policy
 
 
 ## Summary
@@ -45,9 +45,3 @@ We use the platform’s secure storage and HTTPS to protect your data in transit
 - Use the app without adding any provider keys; some features (e.g., local Bing search) may still work.
 - Add/remove providers at any time.
 - Export or delete your data and backups.
-
-## Contact
-Issues: https://github.com/Chevey339/kelivo/issues
-
-## Changes to This Policy
-We may update this policy. We will update the “Last updated” date above and publish changes in the repository.
