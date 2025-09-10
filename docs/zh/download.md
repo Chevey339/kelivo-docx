@@ -7,8 +7,11 @@ title: 下载
 - 最新版本（Android / iOS）：
   https://github.com/Chevey339/kelivo/releases/latest
 
+- iOS TestFlight：
+  https://testflight.apple.com/join/PZZyRMyY
+
 ## 安装说明
 
 - Android：在 Releases 下载 APK 安装到设备。
-- iOS：App Store / TestFlight / Release（参考发布说明）。
+- iOS：通过上面的 TestFlight 链接安装。或自行签名安装。App Store 待上架。
 - 桌面：暂不支持。
