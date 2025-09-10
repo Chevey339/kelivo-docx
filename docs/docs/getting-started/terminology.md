@@ -1,5 +1,6 @@
----
+﻿---
 title: Terminology
+date: 2025-09-02 01:16:27
 ---
 
 # Terminology

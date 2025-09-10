@@ -1,5 +1,6 @@
----
+﻿---
 title: Assistant Basics
+date: 2025-09-02 01:16:27
 ---
 
 # Assistant Basics
