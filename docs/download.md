@@ -11,8 +11,12 @@ date: 2025-09-02 01:16:27
 - iOS TestFlight:
   https://testflight.apple.com/join/PZZyRMyY
 
+- OpenHarmony：
+  https://github.com/Chevey339/kelivo-ohos/releases/latest
+
 ## Install Notes
 
 - Android: download the APK from Releases and install on your device.
 - iOS: install via the TestFlight link above. App Store TBD.
+- OpenHarmony: download the hap or app from Releases and install on your device. App Store TBD.
 - Desktop: not supported yet.
