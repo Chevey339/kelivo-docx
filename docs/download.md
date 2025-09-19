@@ -8,6 +8,9 @@ date: 2025-09-02 01:16:27
 - Latest release (Android/iOS):
   https://github.com/Chevey339/kelivo/releases/latest
 
+- App Store:
+  [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/kelivo/id6752122930)
+
 - iOS TestFlight:
   https://testflight.apple.com/join/PZZyRMyY
 
@@ -17,6 +20,6 @@ date: 2025-09-02 01:16:27
 ## Install Notes
 
 - Android: download the APK from Releases and install on your device.
-- iOS: install via the TestFlight link above. App Store TBD.
+- iOS: install via the App Store or TestFlight link above.
 - OpenHarmony: download the hap or app from Releases and install on your device. App Store TBD.
 - Desktop: not supported yet.
