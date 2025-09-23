@@ -2,7 +2,7 @@
   "app": "Kelivo",
   "latest": {
     "version": "1.0.11",
-    "build": 3,
+    "build": 2,
     "releasedAt": "2025-09-17T23:05:00Z",
     "notes": "新增迷你地图\n支持更改模型ID\n新增用户消息快捷操作开关\n新增两种主题色\n新增URL头像图片缓存\n改进数据同步的助手合并逻辑\n支持同时进行多个聊天\n美化Snackbar样式\n统一iOS英文显示为苹方字体\n修复滑动表格时会打开侧边栏的问题",
     "mandatory": false,
