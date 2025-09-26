@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Kelivo"
   text: "A LLM Chat Client"
-  tagline: Modern, multilingual, multi‑provider AI chat
+  tagline: Modern, cross‑platform, multilingual, multi‑provider AI chat
   image:
     src: /icon.png
     alt: Kelivo Icon
@@ -19,6 +19,9 @@ hero:
       link: /download
 
 features:
+  - title: Cross‑Platform
+    details: Android, iOS, HarmonyOS (Windows & macOS coming soon)
+    icon: 📱
   - title: Multi‑Provider
     details: Supports OpenAI, Google, Anthropic and more
     icon: 💻
@@ -34,8 +37,3 @@ features:
   - title: Privacy‑Focused
     details: Local‑first design with full control over data flow
     icon: 🔒
-  - title: Multimodal & Voice
-    details: Images, documents, and TTS voice replies
-    icon: 🖼️
-
- 
