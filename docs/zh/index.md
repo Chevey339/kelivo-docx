@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "Kelivo"
   text: "一个 LLM 聊天客户端"
-  tagline: 现代、跨平台、多语言、多供应商的 AI 对话
+  tagline: 多平台、多语言、多供应商的 AI 对话
   image:
     src: /icon.png
     alt: Kelivo 图标
@@ -20,8 +20,8 @@ hero:
       link: /zh/download
 
 features:
-  - title: 跨平台
-    details: 已支持 Android / iOS / HarmonyOS（即将支持 Windows 与 macOS）
+  - title: 多平台
+    details: 已支持 Android / iOS / HarmonyOS
     icon: 📱
   - title: 多供应商
     details: 支持 OpenAI、Google、Anthropic 等主流模型
