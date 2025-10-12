@@ -2,7 +2,7 @@
   "app": "Kelivo",
   "latest": {
     "version": "1.0.12",
-    "build": 2,
+    "build": 3,
     "releasedAt": "2025-10-12T23:05:00Z",
     "notes": "聊天页面适配平板端\n允许从剪贴板直接粘贴图片\n新增Ollama 搜索服务\n添加LaTeX渲染的开关\n修复编辑后的图片无法识别的问题\n修复iPad上导出/分享失败的错误\n优化图片导出功能",
     "mandatory": false,
