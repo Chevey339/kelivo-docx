@@ -1,17 +1,18 @@
 {
   "app": "Kelivo",
   "latest": {
-    "version": "1.0.11",
-    "build": 2,
-    "releasedAt": "2025-09-17T23:05:00Z",
-    "notes": "新增迷你地图\n支持更改模型ID\n新增用户消息快捷操作开关\n新增两种主题色\n新增URL头像图片缓存\n改进数据同步的助手合并逻辑\n支持同时进行多个聊天\n美化Snackbar样式\n统一iOS英文显示为苹方字体\n修复滑动表格时会打开侧边栏的问题",
+    "version": "1.0.12",
+    "build": 3,
+    "releasedAt": "2025-10-12T23:05:00Z",
+    "notes": "聊天页面适配平板端\n允许从剪贴板直接粘贴图片\n新增Ollama搜索服务\n添加LaTeX渲染的开关\n修复编辑后的图片无法识别的问题\n修复iPad上导出/分享失败的问题\n优化图片导出功能",
     "mandatory": false,
     "downloads": {
-      "ios": "https://github.com/Chevey339/kelivo/releases/latest",
+      "ios": "https://apps.apple.com/us/app/kelivo/id6752122930",
       "android": "https://github.com/Chevey339/kelivo/releases/latest"
     }
   },
   "history": [
+    {"version": "1.0.11", "releasedAt": "2025-09-27", "notes": "新增迷你地图\n支持更改模型ID\n新增用户消息快捷操作开关\n新增两种主题色\n新增URL头像图片缓存\n改进数据同步的助手合并逻辑\n支持同时进行多个聊天\n美化Snackbar样式\n统一iOS英文显示为苹方字体\n修复滑动表格时会打开侧边栏的问题"},
     {"version": "1.0.10", "releasedAt": "2025-09-17", "notes": "添加长按用户信息菜单，更改底部输入功能区样式，并将选择助手弹窗换成叠加菜单\n优化模型选择弹窗\n新增关闭上下文信息限制与设置“自动滚动”间隔的功能\n修复表格无法渲染Markdown以及Claude供应商模型调用的问题\n新增Claude与OpenAI Responses API的内置搜索功能"},
     {"version": "1.0.8", "releasedAt": "2025-09-09", "notes": "新增助手列表长按排序、对话文字长按复制、支持 Mermaid 渲染\n修复内置模型不可用问题，模型选择弹窗可显示收藏模型的服务商，并支持按名称/供应商搜索\n解决供应商详情页 baseurl 输入框丢失、助手列表无法滑动、模型列表定位不准等问题\n修复 LaTeX 公式过长时无法滑动的问题\n新增 HarmonyOS Next 版本"},
     {"version": "1.0.8", "releasedAt": "2025-09-08", "notes": "新增内置模型\n修复生图模型对话图片第二张无法生成需重新对话的问题\n模型选择弹出窗口中的提供商顺序现在与提供商列表中的顺序一致\n完善捐赠页面"},
