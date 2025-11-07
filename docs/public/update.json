@@ -8,7 +8,10 @@
     "mandatory": false,
     "downloads": {
       "ios": "https://apps.apple.com/us/app/kelivo/id6752122930",
-      "android": "https://github.com/Chevey339/kelivo/releases/latest"
+      "android": "https://github.com/Chevey339/kelivo/releases/latest",
+      "windows": "https://github.com/Chevey339/kelivo/releases/latest",
+      "macos": "https://github.com/Chevey339/kelivo/releases/latest",
+      "linux": "https://github.com/Chevey339/kelivo/releases/latest"
     }
   },
   "history": [
