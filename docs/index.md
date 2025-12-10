@@ -20,7 +20,7 @@ hero:
 
 features:
   - title: Mult‑Platform
-    details: Supports Android, iOS, HarmonyOS
+    details: Supports Android, iOS, HarmonyOS, Desktop (Windows, MacOS, Linux)
     icon: 📱
   - title: Multi‑Provider
     details: Supports OpenAI, Google, Anthropic and more

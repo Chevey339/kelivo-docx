@@ -22,4 +22,4 @@ date: 2025-09-02 01:16:27
 - Android: download the APK from Releases and install on your device.
 - iOS: install via the App Store or TestFlight link above.
 - OpenHarmony: download the hap or app from Releases and install on your device. App Store TBD.
-- Desktop: not supported yet.
+- Desktop: download the installer/executable from Releases and install on your device.

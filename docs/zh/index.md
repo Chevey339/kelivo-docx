@@ -21,7 +21,7 @@ hero:
 
 features:
   - title: 多平台
-    details: 已支持 Android / iOS / HarmonyOS
+    details: 已支持 Android / iOS / HarmonyOS / Desktop (Windows, MacOS, Linux)
     icon: 📱
   - title: 多供应商
     details: 支持 OpenAI、Google、Anthropic 等主流模型
