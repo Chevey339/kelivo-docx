@@ -1,4 +1,4 @@
-{
+  {
   "updatedAt": "2025-09-15T00:00:00Z",
   "sponsors": [
     {
@@ -177,6 +177,16 @@
     },
     {
       "name": "🧐",
+      "avatar": "https://kelivo.psycheas.top/wechat.png",
+      "since": "2026-02-23"
+    },
+    {
+      "name": "Em",
+      "avatar": "https://kelivo.psycheas.top/wechat.png",
+      "since": "2026-02-23"
+    },
+    {
+      "name": "今日未读洋人文献",
       "avatar": "https://kelivo.psycheas.top/wechat.png",
       "since": "2026-02-23"
     }
