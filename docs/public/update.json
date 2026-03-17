@@ -1,9 +1,9 @@
 {
   "app": "Kelivo",
   "latest": {
-    "version": "1.1.3",
-    "build": 18,
-    "releasedAt": "2025-11-30T23:05:00Z",
+    "version": "1.1.8",
+    "build": 26,
+    "releasedAt": "2026-2-20T23:05:00Z",
     "notes": "bug fixes & new features",
     "mandatory": false,
     "downloads": {
